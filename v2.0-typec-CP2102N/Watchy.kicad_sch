@@ -8663,17 +8663,6 @@
 		)
 		(uuid "1e44b298-103e-411a-8340-5b238eb84f34")
 	)
-	(text "1=charging\n当没有电池时, VBUS 5v变成VBAT\nVBAT: 4.2v 此时时钟有问题, 可能是换了TP4057导致\n当没有电池时, VBAT: 3.75v"
-		(exclude_from_sim no)
-		(at 34.544 141.986 0)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left)
-		)
-		(uuid "54c37606-8753-443f-b698-cd0cdd7029d5")
-	)
 	(text "E-Paper Driver"
 		(exclude_from_sim no)
 		(at 265.938 109.855 0)
