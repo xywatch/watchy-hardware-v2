@@ -1,5 +1,5 @@
 # watchy-hardware-v2
-This project involves modifying the Watchy Hardware V2 by replacing the Micro USB port with a Type-C interface. There are two versions available for the serial chip:
+This project involves modifying the <a href="https://github.com/sqfmi/watchy-hardware">Watchy Hardware V2</a> by replacing the Micro USB port with a Type-C interface. There are two versions available for the serial chip:
 
 * CP2102N version
 * CH340X version
